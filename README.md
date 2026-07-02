@@ -46,7 +46,10 @@ This repository documents my hands-on SQL practice as part of my Data Engineerin
 
 This repository will be upadated regularly with new SQL concepts, practice questions, and hands-on exercise as I contuine my Data Engineering Learning journey.
 
-  
-- SQL Execution Order
-
-This repository will be updated regularly with new SQL concepts, practice queries, and hands-on exercises as I continue my Data Engineering learning journey.
+  📁 Repository Structure
+DDL/
+DML/
+DQL/
+TCL/
+DCL/
+README.md
